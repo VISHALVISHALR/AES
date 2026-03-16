@@ -73,5 +73,6 @@ int main() {
 <img width="1043" height="667" alt="image" src="https://github.com/user-attachments/assets/406fbc1d-efdd-4326-97d5-098f5a6a279c" />
 
 # RESULT:
+Thus, the Advanced Encryption Standard (AES) concept was studied and a practical URL encryption program was successfully implemented and verified.
 
 
